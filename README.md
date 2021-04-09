@@ -1,5 +1,7 @@
 # ECMAScript proposal: JavaScript standard library UUID
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 **&#x26a0;&#xfe0f;&#x26a0;&#xfe0f; UPDATE 2021: This proposal is now being pursued at:
 https://github.com/WICG/uuid &#x26a0;&#xfe0f;&#x26a0;&#xfe0f;**
 
